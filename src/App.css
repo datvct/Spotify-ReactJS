@@ -80,13 +80,13 @@
   width: 100%;
 }
 
-table {
+/* table {
   border-collapse: collapse;
-}
+} */
 
-table td {
+/* table td {
   border: none;
-}
+} */
 
 .listSong .list-title {
   color: white;
@@ -111,12 +111,12 @@ table td {
 .listSong td:nth-child(2) {
   text-align: left;
 }
-
+/* 
 .listSong tbody tr {
   background: #1e293b;
   height: 48px;
   color: #a3a3a3;
-}
+} */
 
 .listSong tbody tr:hover {
   background: #475569;
